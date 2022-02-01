@@ -1,0 +1,2 @@
+makefile: la1.h la1.c
+	gcc -o la1 la1.h la1.c ~/Desktop/c/
